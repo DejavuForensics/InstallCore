@@ -121,7 +121,6 @@ Babable	| 0%	| 0.05%	| 99.95% |
 
 Antivírus | VirusShare_0003070a022f18beb0395339818bdd31 | VirusShare_000831e751abb0428dd0147df1e67c5b | VirusShare_00086118ce2fb077bbb710048c829006
 -------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------ | -----------------------------------------------------------------------------
-
 Bkav | False Negative | W32.HfsAdware.F5AA | W32.AIDetect.malware2 |
 Lionic | Adware.Win32.InstallCore.lDim | False Negative | False Negative |
 Elastic | malicious (high confidence) | Omission | malicious (high confidence) |
