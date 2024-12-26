@@ -122,7 +122,76 @@ Babable	| 0%	| 0.05%	| 99.95% |
 Antivírus | VirusShare_001627d61a1bde3478ca4965e738dc1e | VirusShare_075efef8c9ca2f675be296d5f56406fa | VirusShare_0dab86f850fd3dafc98d0f2b401377d5
 --------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
 
-
+Bkav | False Negative
+Lionic | Adware.Win32.InstallCore.lDim
+Elastic | malicious (high confidence)
+DrWeb | Adware.Downware.294
+MicroWorld-eScan | False Negative
+FireEye | Generic.mg.0003070a022f18be
+CAT-QuickHeal | PUA.Ironsource.Gen
+ALYac | False Negative
+Cylance | Unsafe
+Zillya | Adware.InstallCoreGen.Win32.1
+Paloalto | False Negative
+Sangfor | Trojan.Win32.Save.a
+K7AntiVirus | Unwanted-Program ( 004ae5fe1 )
+Alibaba | AdWare:Win32/InstallCore.7326ea38
+K7GW | Unwanted-Program ( 004ae5fe1 )
+CrowdStrike | win/malicious_confidence_100% (D)
+BitDefenderTheta | False Negative
+Cyren | W32/InstallCore.B2.gen!Eldorado
+Symantec | Trojan.Gen.MBT
+ESET-NOD32 | a variant of Win32/InstallCore.BH potentially unwanted
+APEX | Malicious
+Avast | FileRepMalware [PUP]
+ClamAV | Win.Adware.Installcore-63
+Kaspersky | not-a-virus:HEUR:AdWare.Win32.InstallCore.gen
+BitDefender | False Negative
+NANO-Antivirus | Riskware.Win32.InstallCore.pljgw
+SUPERAntiSpyware | Adware.InstallCore
+Tencent | Adware.Win32.Installcore.e 
+Ad-Aware | False Negative
+Sophos | Install Core (PUA)
+Comodo | ApplicUnwnt.Win32.AdWare.InstallCore.2@4nl4x7
+F-Secur | PotentialRisk.PUA/InstallCore.Gen
+Baidu | False Negative
+VIPRE | Trojan.Win32.Generic!BT
+TrendMicro | TROJ_GEN.R002C0OF221
+McAfee-GW-Edition | BehavesLike.Win32.Generic.hc
+CMC | False Negative
+Emsisoft | Application.InstallCore (A)
+SentinelOne | Static AI - Malicious PE
+GData | Win32.Application.InstallCore.LH
+Jiangmin | False Negative
+eGambit | Unsafe.AI_Score_98%
+Avira | PUA/InstallCore.Gen
+MAX | malware (ai score=99)
+Antiy-AVL | Trojan/Generic.ASMalwS.4CC60D
+Kingsoft | Win32.Heur.KVM019.a.(kcloud)
+Gridinsoft | Adware.InstallCore.dd!c
+Arcabit | False Negative
+ViRobot | Adware.Installcore.593288.SE
+ZoneAlarm | not-a-virus:HEUR:AdWare.Win32.InstallCore.gen
+Microsoft | PUA:Win32/InstallCore
+Cynet | Malicious (score: 100)
+AhnLab-V3 | Adware/Win32.InstallCore.R40342
+Acronis | suspicious
+McAfee | Artemis!0003070A022F
+TACHYON | False Negative
+VBA32 | TScope.Trojan.Delf
+Malwarebytes | PUP.Optional.InstallCore
+Zoner | False Negative
+TrendMicro-HouseCall | TROJ_GEN.R002C0OF221
+Rising | Adware.InstallCore!1.CF49 (CLASSIC)
+Yandex | Trojan.GenAsa!Kxs7Js9W304
+Ikarus | AdWare.Generic
+MaxSecure | Adware.not-a-virus.WIN32.AdWare.InstallCore.gen_181719
+Fortinet | Riskware/InstallCore.AAAA
+Webroot | Adware.Installcore
+AVG | FileRepMalware [PUP]
+Cybereason | malicious.1ab441
+Panda | PUP/MultiToolbar.A
+Qihoo-360 | False Negative
 
 ## Materials and Methods
 
